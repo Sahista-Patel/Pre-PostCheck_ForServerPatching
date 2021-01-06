@@ -27,7 +27,7 @@
     Install-Module -Name SqlServer
     This scipt must be executed after patching and if Precheck script used before patching then only.
 
-.AUTHOR & OWNER
+.AUTHOR
     Harsh Parecha
     Sahista Patel
 #>
